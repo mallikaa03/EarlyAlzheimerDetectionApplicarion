@@ -1,1 +1,1 @@
-# EarlyAlzheimerDetectionApplicarion
+# Early Alzheimer Detection Application
